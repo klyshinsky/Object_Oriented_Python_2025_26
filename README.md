@@ -6,3 +6,5 @@
 [Лекция 1](https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/Lecture_20250903_requests.ipynb) - Библиотека requests для работы с HTTP. Библиотека BeautifulSoup для работы с HTML. XPath для запросов к "деревянной" структуре документа. Загрузка и обработка бинарных данных.
 
 [Лекция 2](https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/lecture_20250910_unittest.ipynb) - файлы конфигурации, сохранение результатов в docx, журналирование, юнит-тесты.
+
+[Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/lecture_20250917.ipynb) - Библиотеки морфологического анализа, пару слов про объекты.
