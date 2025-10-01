@@ -8,3 +8,7 @@
 [Лекция 2](https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/lecture_20250910_unittest.ipynb) - файлы конфигурации, сохранение результатов в docx, журналирование, юнит-тесты.
 
 [Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/lecture_20250917.ipynb) - Библиотеки морфологического анализа, пару слов про объекты.
+
+[Лекции 4, 5]((https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/lecture_20250924_operators_decorators.ipynb) - Как устроены объекты, классы и типы в Питоне. Переопределение операторов. Декораторы. Передача параметров по умолчанию.
+
+
