@@ -14,3 +14,4 @@
 
 [Лекции 6](https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/lecture_20251008_Inheritance.ipynb) - Наследование. Абстрактные методы и классы. 
 
+[Лекция 7](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20251022_design_patterns.ipynb] - принципы SOLID. Шаблоны разработки классов.
