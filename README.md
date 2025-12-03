@@ -18,3 +18,6 @@
 
 [Лекция 8](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20251112_software_design.pdf) - Принципы разработки программного обеспечения (презентация).
 
+[Лекция 9](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20251203_multiprocessing.ipynb) - Многопоточность.  
+[Дополнительные материалы к ней](https://github.com/lwahomura/DH2023/blob/master/7%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/7_%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F.ipynb)
+
